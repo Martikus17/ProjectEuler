@@ -1,4 +1,4 @@
-package problem_5;
+package problem1_10;
 
 public class Problem_5 {
 
